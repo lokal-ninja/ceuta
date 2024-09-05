@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /ceuta/lidl/
-shop: supermercado
+shop: Supermarkt
 ---

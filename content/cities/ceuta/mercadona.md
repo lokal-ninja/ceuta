@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /ceuta/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

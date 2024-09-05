@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /ceuta/carrefour/
-shop: supermercado
+shop: Supermarkt
 ---
