@@ -1,5 +1,5 @@
 ---
 title: "Imaginarium"
 url: /ceuta/imaginarium/
-shop: Spielzeug
+shop: juguetes
 ---
