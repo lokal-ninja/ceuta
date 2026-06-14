@@ -1,6 +1,6 @@
 ---
 title: Ceuta
 url: /ceuta/
-latitude: 35.891
-longitude: -5.319
+latitude: 35.889
+longitude: -5.309
 ---
